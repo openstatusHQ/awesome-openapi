@@ -1,6 +1,6 @@
 # Awesome OpenAPI
 
-Awesome OpenAPI is a curated list of OpenAPI specifications and tools to work with them.
+Awesome OpenAPI is a curated list of public OpenAPI endpoints.
 
 - [Bitbucket](https://dac-static.atlassian.com/cloud/bitbucket/swagger.v3.json?_v=2.300.49-0.1308.0)
 - [Documenso](https://app.documenso.com/api/v1/openapi)
