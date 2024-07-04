@@ -1,6 +1,6 @@
 # Awesome OpenAPI
 
-Awessome OpenAPI is a curated list of OpenAPI specifications and tools to work with them.
+Awesome OpenAPI is a curated list of OpenAPI specifications and tools to work with them.
 
 - [Documenso](https://app.documenso.com/api/v1/openapi)
 - [Intercom](https://developers.intercom.com/_spec/docs/references/@2.11/rest-api/api.intercom.io.json)
