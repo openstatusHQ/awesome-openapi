@@ -13,5 +13,6 @@ Awesome OpenAPI is a curated list of public OpenAPI endpoints.
 - [Unolia](https://app.unolia.com/docs/openapi.yaml)
 - [Val Town](https://api.val.town/openapi.json)
 - [Vercel](https://openapi.vercel.sh/)
+- [Xquik](https://xquik.com/openapi.json)
 - [Zoom](https://developers.zoom.us/api-specs/zoom-api/methods/ZoomMeetingAPI-spec.json)
 - [Midday](https://engine.midday.ai/openapi)
