@@ -16,3 +16,5 @@ Awesome OpenAPI is a curated list of public OpenAPI endpoints.
 - [Xquik](https://xquik.com/openapi.json)
 - [Zoom](https://developers.zoom.us/api-specs/zoom-api/methods/ZoomMeetingAPI-spec.json)
 - [Midday](https://engine.midday.ai/openapi)
+
+* [Vedika API](https://vedika.io) - Vedic astrology API with OpenAPI spec
