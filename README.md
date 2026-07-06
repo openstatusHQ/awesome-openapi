@@ -3,6 +3,7 @@
 Awesome OpenAPI is a curated list of public OpenAPI endpoints.
 
 - [Bitbucket](https://dac-static.atlassian.com/cloud/bitbucket/swagger.v3.json?_v=2.300.49-0.1308.0)
+- [CruiseFeed](https://api.cruisefeed.io/openapi.json)
 - [Documenso](https://app.documenso.com/api/v1/openapi)
 - [Intercom](https://developers.intercom.com/_spec/docs/references/@2.11/rest-api/api.intercom.io.json)
 - [HuggingFace](https://api.endpoints.huggingface.cloud/openapi.json)
