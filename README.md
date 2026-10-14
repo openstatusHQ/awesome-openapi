@@ -6,6 +6,7 @@ Awesome OpenAPI is a curated list of public OpenAPI endpoints.
 - [Documenso](https://app.documenso.com/api/v1/openapi)
 - [Intercom](https://developers.intercom.com/_spec/docs/references/@2.11/rest-api/api.intercom.io.json)
 - [HuggingFace](https://api.endpoints.huggingface.cloud/openapi.json)
+- [MentionsAPI](https://api.mentionsapi.com/openapi.json)
 - [OpenStatus](https://api.openstatus.dev/v1/openapi)
 - [OVH](https://api.ovh.com/1.0/)
 - [Salesforce](https://resources.docs.salesforce.com/rel1/doc/en-us/static/misc/iot-connect-api-swagger-45.0.yaml)
