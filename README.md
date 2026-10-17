@@ -9,6 +9,7 @@ Awesome OpenAPI is a curated list of public OpenAPI endpoints.
 - [MentionsAPI](https://api.mentionsapi.com/openapi.json)
 - [OpenStatus](https://api.openstatus.dev/v1/openapi)
 - [OVH](https://api.ovh.com/1.0/)
+- [RestoSignals](https://api.restosignals.com/openapi.json)
 - [Salesforce](https://resources.docs.salesforce.com/rel1/doc/en-us/static/misc/iot-connect-api-swagger-45.0.yaml)
 - [Strava](https://developers.strava.com/swagger/swagger.json)
 - [Unolia](https://app.unolia.com/docs/openapi.yaml)
