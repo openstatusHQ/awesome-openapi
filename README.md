@@ -2,6 +2,7 @@
 
 Awesome OpenAPI is a curated list of public OpenAPI endpoints.
 
+- [AgentSandboxes](https://agentsandboxes.fyi/api/v1/openapi.json)
 - [Bitbucket](https://dac-static.atlassian.com/cloud/bitbucket/swagger.v3.json?_v=2.300.49-0.1308.0)
 - [Documenso](https://app.documenso.com/api/v1/openapi)
 - [Intercom](https://developers.intercom.com/_spec/docs/references/@2.11/rest-api/api.intercom.io.json)
