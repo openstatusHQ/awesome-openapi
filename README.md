@@ -4,6 +4,7 @@ Awesome OpenAPI is a curated list of public OpenAPI endpoints.
 
 - [Bitbucket](https://dac-static.atlassian.com/cloud/bitbucket/swagger.v3.json?_v=2.300.49-0.1308.0)
 - [Documenso](https://app.documenso.com/api/v1/openapi)
+- [Genaya](https://developer.genaya.com/openapi.yaml)
 - [Intercom](https://developers.intercom.com/_spec/docs/references/@2.11/rest-api/api.intercom.io.json)
 - [HuggingFace](https://api.endpoints.huggingface.cloud/openapi.json)
 - [MentionsAPI](https://api.mentionsapi.com/openapi.json)
